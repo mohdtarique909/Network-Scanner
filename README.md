@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Network_Scanner.git
+    https://github.com/mohdtarique909/Network-Scanner.git
     ```
 
 2. Change to the project directory:
