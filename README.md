@@ -1,5 +1,18 @@
 # Network-Scanner
 
+A simple Python script that scans a given IP address or IP range to find devices on the network. It uses ARP requests to identify active devices and displays their IP and MAC addresses.
+
+## Features
+
+- Scans a specified IP address or range.
+- Displays the IP and MAC addresses of discovered devices.
+- Suppresses deprecation warnings related to cryptographic algorithms.
+
+## Prerequisites
+
+- Python 3.x
+- `scapy` library
+
 ## Installation
 
 1. Clone the repository:
