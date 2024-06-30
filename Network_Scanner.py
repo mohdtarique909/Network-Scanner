@@ -38,3 +38,4 @@ def print_result(result_list):
 options = get_argument()
 scan_result = scan(options.target)
 print_result(scan_result)
+
