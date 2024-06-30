@@ -22,7 +22,7 @@ A simple Python script that scans a given IP address or IP range to find devices
 
 2. Change to the project directory:
     ```sh
-    cd Network_Scanner
+    cd Network-Scanner
     ```
 
 3. Install the required Python libraries:
