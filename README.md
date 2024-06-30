@@ -38,3 +38,14 @@ Run the script with the target IP or IP range as an argument:
 
 ```sh
 python Network_Scanner.py -t <target_ip_or_range>
+
+## Example
+
+```sh
+python Network_Scanner.py -t 192.168.7.0/24
+
+
+IP			        MAC Address
+-----------------------------------------
+192.168.7.52		b2:9d:c6:1f:7d:5a
+192.168.7.114		b4:b5:b6:b0:6a:39
