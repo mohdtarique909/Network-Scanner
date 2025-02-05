@@ -17,7 +17,7 @@ A simple Python script that scans a given IP address or IP range to find devices
 
 1. Clone the repository:
     ```sh
-    https://github.com/mohdtarique909/Network-Scanner.git
+    git clone https://github.com/mohdtarique909/Network-Scanner.git
     ```
 
 2. Change to the project directory:
